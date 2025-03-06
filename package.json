@@ -1,0 +1,22 @@
+{
+  "name": "chessgame-browser",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "lint": "prettier --write ./src/**/*.{ts,html}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermelMoraes/chessgame-browser.git"
+  },
+  "author": "Guilherme Moraes <guilherme.lmoraes.devel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermelMoraes/chessgame-browser/issues"
+  },
+  "homepage": "https://github.com/guilhermelMoraes/chessgame-browser#readme",
+  "devDependencies": {
+    "prettier": "3.5.3",
+    "typescript": "^5.8.2"
+  }
+}
